@@ -1,1 +1,5 @@
-My first readme
+my edited 
+
+Akinduyo Emmanuel
+
+README.md
